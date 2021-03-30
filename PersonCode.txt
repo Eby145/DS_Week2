@@ -1,0 +1,1 @@
+Select * from tbl.person where name like 'Wiz%'
